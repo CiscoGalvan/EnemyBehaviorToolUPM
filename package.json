@@ -1,36 +1,38 @@
 {
-  "name": "com.tunombre.enemybehaviortool",
+  "name": "com.ciscogalvan.enemybehaviortool",
   "version": "1.0.0",
   "displayName": "Enemy Behavior Tool",
   "description": "Herramienta para comportamiento enemigo",
   "unity": "2022.3",
   "author": {
-    "name": "Tu Nombre"
+  "name": "Francisco Miguel Galván Muñoz & Cristina Mora Velasco",
+  "email": "francisgalvan@hotmail.es, crmora03@ucm.es"
   },
   "dependencies": {
     "com.unity.splines": "2.3.0",
     "com.unity.visualscripting": "1.9.0"
   },
   "samples": [
-    {
-      "displayName": "Animations",
-      "description": "",
-      "path": "Samples~/Animations"
-    },
-    {
-      "displayName": "Materials",
-      "description": "",
-      "path": "Samples~/Materials"
-    },
-    {
-      "displayName": "Enemy Behavior Tool - Visual Scripting",
-      "description": "Herramienta para comportamiento enemigo con Visual Scripting",
-      "path": "Samples~/Prefabs"
-    },
-    {
-      "displayName": "Enemy Behavior Tool - Prefabs",
-      "description": "Prefabs para el comportamiento enemigo",
-      "path": "Samples~/Scenes"
-    }
-  ]
+  {
+    "displayName": "Animations",
+    "description": "Example animations used by the tool.",
+    "path": "Samples~/Animations"
+  },
+  {
+    "displayName": "Materials",
+    "description": "Sample materials for enemies and environments.",
+    "path": "Samples~/Materials"
+  },
+  {
+    "displayName": "Prefabs",
+    "description": "Prefabs used in the tool.",
+    "path": "Samples~/Prefabs"
+  },
+  {
+    "displayName": "Scenes",
+    "description": "Sample scenes demonstrating the tool.",
+    "path": "Samples~/Scenes"
+  }
+]
+
 }
