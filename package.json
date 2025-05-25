@@ -8,7 +8,28 @@
     "name": "Tu Nombre"
   },
   "dependencies": {
-    "com.unity.splines": "2.3.0",
-    "com.unity.visualscripting": "1.9.0"
-  }
+    "com.unity.splines": "2.3.0"
+  },
+  "samples": [
+    {
+      "displayName": "Animations",
+      "description": "",
+      "path": "Samples~/Animations"
+    },
+    {
+      "displayName": "Materials",
+      "description": "",
+      "path": "Samples~/EnemyBehaviorTool"
+    },
+    {
+      "displayName": "Enemy Behavior Tool - Visual Scripting",
+      "description": "Herramienta para comportamiento enemigo con Visual Scripting",
+      "path": "Samples~/Prefabs"
+    },
+    {
+      "displayName": "Enemy Behavior Tool - Prefabs",
+      "description": "Prefabs para el comportamiento enemigo",
+      "path": "Samples~/Scenes"
+    }
+  ]
 }
