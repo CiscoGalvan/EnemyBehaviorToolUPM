@@ -1,13 +1,14 @@
 {
     "name": "com.enemybehaviortool",
+    "displayName": "Enemy Behavior Tool",
     "version": "1.0.0",
-    "displayName": "EnemyBehaviorTool",
-    "description": "A Unity package for enemy behavior tools.",
-    "unity": "2021.1",
+    "unity": "2021.3",
+    "description": "Herramienta para gestionar comportamientos de enemigos en Unity.",
     "keywords": [
         "enemy",
-        "behavior",
-        "tool"
+        "behaviour",
+        "ai",
+        "gameplay"
     ],
-    "dependencies": {}
+    "category": "Game Tools"
 }

@@ -1,17 +1,16 @@
 {
     "name": "EnemyBehaviorTool.Editor",
-    "references": [
-        "EnemyBehaviorTool.Runtime",
-        "UnityEditor"
-    ],
+    "autoReferenced": true,
     "includePlatforms": [
         "Editor"
     ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
-    "autoReferenced": true,
+    "precompiledReferences": [],
     "defineConstraints": [],
-    "versionDefines": [],
-    "noEngineReferences": false
+    "noEngineReferences": false,
+    "references": [
+        "EnemyBehaviorTool.Runtime"
+    ]
 }

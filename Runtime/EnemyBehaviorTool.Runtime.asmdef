@@ -1,12 +1,12 @@
 {
     "name": "EnemyBehaviorTool.Runtime",
-    "references": [],
+    "autoReferenced": true,
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
-    "autoReferenced": true,
+    "precompiledReferences": [],
     "defineConstraints": [],
-    "versionDefines": [],
-    "noEngineReferences": false
+    "noEngineReferences": false,
+    "references": []
 }

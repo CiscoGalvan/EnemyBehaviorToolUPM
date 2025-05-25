@@ -1,21 +1,21 @@
 # EnemyBehaviorTool
 
-This package provides tools for defining and managing enemy behaviors in Unity.
+EnemyBehaviorTool es un paquete UPM para Unity que provee herramientas para gestionar comportamientos de enemigos.
 
-## Installation
+## Instalación
 
-Add the following line to your project's `Packages/manifest.json`:
-
+Añade en `Packages/manifest.json` del proyecto consumidor:
 ```json
-"com.enemybehaviortool": "https://github.com/your-repo/EnemyBehaviorTool.git"
+"dependencies": {
+  "com.enemybehaviortool": "https://github.com/TuUsuario/EnemyBehaviorTool.git#1.0.0"
+}
 ```
 
-## Structure
+## Estructura
 
-- **Runtime/**: Runtime scripts and assets.
-- **Editor/**: Editor extensions and tools.
+- **Runtime/**: Scripts y assets de juego.
+- **Editor/**: Extensiones y herramientas de editor.
 
 ## Usage
 
-Import the package and start using the scripts in your scenes.
-
+Importa el paquete y empieza a usar las clases dentro del namespace `EnemyTool`.
