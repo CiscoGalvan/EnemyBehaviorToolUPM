@@ -1,0 +1,13 @@
+{
+    "name": "com.enemybehaviortool",
+    "version": "1.0.0",
+    "displayName": "EnemyBehaviorTool",
+    "description": "A Unity package for enemy behavior tools.",
+    "unity": "2021.1",
+    "keywords": [
+        "enemy",
+        "behavior",
+        "tool"
+    ],
+    "dependencies": {}
+}
